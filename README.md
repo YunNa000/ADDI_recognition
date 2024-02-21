@@ -85,6 +85,7 @@ C:.
 ```
 
 ### **작동 화면**
-영상 업로드 예정
+<img width="563" alt="image" src="https://github.com/ADDIcreamo/ADDI_recognition/assets/54527982/4620afd6-8ee7-4f44-a690-874eadcea8b6">
+
 <img width="603" alt="image" src="https://github.com/ADDIcreamo/ADDI_recognition/assets/54527982/6205858b-24dd-4802-b4f5-b0987fc249fe">
 
